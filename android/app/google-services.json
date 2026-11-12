@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "900509699788",
+    "project_id": "tourism-with-firebase",
+    "storage_bucket": "tourism-with-firebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900509699788:android:69193453a20e951fbe7c69",
+        "android_client_info": {
+          "package_name": "com.example.tourism_guide_with_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv-inVJKhz6qIQ1wfvvgsLk86-6Sw9jNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
